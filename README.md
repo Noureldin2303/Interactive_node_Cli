@@ -1,4 +1,4 @@
-# Nour_Cli ✨😎
+# Nooby_cli ✨😎
 
 # Interactive Node CLI Tool
 
@@ -9,17 +9,17 @@ A simple interactive ✨ **CLI tool** ✨ that can be used to help you with proj
 You can install it from npm:
 
 ```sh
-npm i nour_cli
+npm i nooby_cli
 ```
 
-You can find it on the [npm website](https://www.npmjs.com/package/nour_cli).
-
+You can find it on the [Npm website](https://www.npmjs.com/package/nooby_cli) 👀
+![NPM](image.png)
 ## Running the CLI Tool
 
 To start the CLI tool, run:
 
 ```sh
-nour_cli <command>
+nooby_cli <command>
 ```
 
 ## Available Commands
@@ -32,38 +32,34 @@ nour_cli <command>
 ### Example
 
 ```sh
-$ nour_cli c
+$ nooby_cli c
 ```
+![alt text](image-1.png)
 
-```js
-? Project name : Project_name
-? Select a tech (Use arrow keys)
-❯ Typescript
-  React
-  React_ts
-  Vue
-  Vue_ts
-  Angular
-  Angular_ts
-? Author name : Ahmed
-? Version : 1.0.0
-```
 
-⠋ Setting up your project...
+### Additional Resources
 
-Your project is ready!
+You can also find each technology's documentation link after the installation process.
 
-To get started, navigate to your project directory and run the following commands:
+### Contributing
 
-```sh
-cd Project_name
-npm install
-npm start
-```
+We welcome contributions! Please follow these steps:
 
-### Typescript Documentation
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
-You have selected Typescript for your project. Here is the link to the official documentation to help you get started:
-[Typescript Documentation](https://www.typescriptlang.org/docs/)
+### License
 
-✔ Project setup complete!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Email**: noureldinfarag4@gmail.com
+
+

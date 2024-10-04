@@ -1,4 +1,4 @@
-# Nour_Cli ✨😎
+# Nooby_cli ✨😎
 
 # Interactive Node CLI Tool
 
@@ -9,17 +9,17 @@ A simple interactive ✨ **CLI tool** ✨ that can be used to help you with proj
 You can install it from npm:
 
 ```sh
-npm i nour_cli
+npm i nooby_cli
 ```
 
-You can find it on the [npm website](https://www.npmjs.com/package/nour_cli).
+You can find it on the [npm website](https://www.npmjs.com/package/nooby_cli).
 
 ## Running the CLI Tool
 
 To start the CLI tool, run:
 
 ```sh
-nour_cli <command>
+nooby_cli <command>
 ```
 
 ## Available Commands
@@ -32,7 +32,7 @@ nour_cli <command>
 ### Example
 
 ```sh
-$ nour_cli c
+$ nooby_cli c
 ```
 
 ```js

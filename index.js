@@ -12,7 +12,7 @@ import ora from "ora";
 const displayWelcomeMessage = () => {
   console.log(
     chalk.green(
-      figlet.textSync("NOUR CLI", {
+      figlet.textSync("NOOBY CLI", {
         font: "ghost",
         horizontalLayout: "default",
         verticalLayout: "default",
