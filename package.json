@@ -15,7 +15,7 @@
     "cli-spinners": "^3.2.0",
     "commander": "^12.1.0",
     "figlet": "^1.7.0",
-    "inquirer": "^11.1.0",
+    "inquirer": "^14.0.0",
     "ora": "^8.1.0"
   },
   "devDependencies": {
